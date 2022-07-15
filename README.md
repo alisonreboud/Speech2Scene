@@ -1,4 +1,6 @@
 # Speech2Scene
+This repository contains the code to produce Stage Directions from Dialogue for movies and series scenes. We run experiments on two datasets. 
+[IMSDb dataset](https://www.imdb.com/interfaces/) in its preprocessed form ([see] (https://github.com/AdeboyeML/Film_Script_Analysis))
 
 ## Finetuning T5
 For the Finetuning of T5 experiment, use [Finetuning_T5.ipynb](Finetuning_T5.ipynb)
